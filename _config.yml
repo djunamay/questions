@@ -1,6 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
+remote_theme: amitmerchant1990/reverie
 
 # Name of your site (displayed in the header)
 name: Questions!
